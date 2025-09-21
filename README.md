@@ -11,3 +11,5 @@
 - Cross-validation to break set into folds for improving model accuracy
 - XGBoost parameter tuning and extreme gradient boosting (performance and speed focused)
 - fixing data leakage(train test contamination and target leakage) by cross validating and dropping leaky variables
+
+###### Intro To Deep Learning
