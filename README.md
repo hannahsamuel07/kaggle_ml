@@ -13,3 +13,5 @@
 - fixing data leakage(train test contamination and target leakage) by cross validating and dropping leaky variables
 
 ###### Intro To Deep Learning
+- building neural networks with neurons and creating stacks of layers that accept input features using keras
+  
