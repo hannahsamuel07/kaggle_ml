@@ -15,4 +15,5 @@
 ###### Intro To Deep Learning
 - building neural networks with neurons and creating stacks of layers that accept input features using keras
 - using activation functions and stacking dense layers to make a full network
+- training data in mini batches (stochastic gradient descent) trying laearing rates and batch sizes
   
