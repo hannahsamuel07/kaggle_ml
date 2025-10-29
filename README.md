@@ -1,4 +1,4 @@
-###### Intro to ML
+###### Intro to ML Kaggle Course
 - Decision Tree  
 - Model validation with Mean Absolute Error  
 - Improving overfitting/underfitting with max leaf nodes  
