@@ -12,7 +12,7 @@
 - XGBoost parameter tuning and extreme gradient boosting (performance and speed focused)
 - fixing data leakage(train test contamination and target leakage) by cross validating and dropping leaky variables
 
-###### Intro To Deep Learning
+###### Intro To Deep Learning Kaggle Course
 - building neural networks with neurons and creating stacks of layers that accept input features using Keras
 - using activation functions and stacking dense layers to make a full network
 - training data in mini-batches (stochastic gradient descent), trying learning rates and batch sizes
