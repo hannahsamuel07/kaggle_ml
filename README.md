@@ -4,7 +4,7 @@
 - Improving overfitting/underfitting with max leaf nodes  
 - Upgrade to Random Forest (average of decision trees)  
 
-###### Intermediate ML
+###### Intermediate ML Kaggle Course
 - Dealing with missing values (drop, imputation, imputation with extension)  
 - Handling categorical vars (drop, ordinal encoding, one-hot encoding)  
 - Pipelines to bundle data preprocessing and modeling code
