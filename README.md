@@ -14,8 +14,8 @@
 
 ###### Intro To Deep Learning Kaggle Course
 - Building neural networks with neurons and creating stacks of layers that accept input features using Keras
-- using activation functions and stacking dense layers to make a full network
-- training data in mini-batches (stochastic gradient descent), trying learning rates and batch sizes
-- using callback early stopping, mini delta, patience, and restore weight parameters to prevent the model from learning too little from the signal and learning too much from noise
+- Using activation functions and stacking dense layers to make a full network
+- Training data in mini-batches (stochastic gradient descent), trying learning rates and batch sizes
+- Using callback early stopping, mini delta, patience, and restore weight parameters to prevent the model from learning too little from the signal and learning too much from noise
 - dropout and batch normalization
 - binary classification
