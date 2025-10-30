@@ -17,5 +17,5 @@
 - Using activation functions and stacking dense layers to make a full network
 - Training data in mini-batches (stochastic gradient descent), trying learning rates and batch sizes
 - Using callback early stopping, mini delta, patience, and restore weight parameters to prevent the model from learning too little from the signal and learning too much from noise
-- dropout and batch normalization
-- binary classification
+- Dropout and batch normalization
+- Binary classification
