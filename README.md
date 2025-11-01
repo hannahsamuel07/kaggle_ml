@@ -6,9 +6,9 @@
 
 ###### Intermediate ML Kaggle Course
 - Dealing with missing values (drop, imputation, imputation with extension)  
-- Handling categorical vars (drop, ordinal encoding, one-hot encoding)  
+- Handling categorical variables (drop, ordinal encoding, one-hot encoding)  
 - Pipelines to bundle data preprocessing and modeling code
-- Cross-validation to break the set into folds for improving model accuracy
+- Cross-Validation to break the set into folds for improving model accuracy
 - XGBoost parameter tuning and extreme gradient boosting (performance and speed focused)
 - Fixing data leakage(train test contamination and target leakage) by cross validating and dropping leaky variables
 
