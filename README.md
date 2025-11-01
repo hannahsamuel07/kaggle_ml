@@ -9,7 +9,7 @@
 - Handling categorical variables (drop, ordinal encoding, one-hot encoding)  
 - Pipelines to bundle data preprocessing and modeling code
 - Cross-Validation to break the set into folds for improving model accuracy
-- XGBoost parameter tuning and extreme gradient boosting (performance and speed focused)
+- XGBoost Parameter tuning and extreme gradient boosting (performance and speed focused)
 - Fixing data leakage(train test contamination and target leakage) by cross validating and dropping leaky variables
 
 ###### Intro To Deep Learning Kaggle Course
